@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: v0i07slpe-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/v0i07slpe-go-gitops
